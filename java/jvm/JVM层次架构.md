@@ -11,13 +11,16 @@ JVM 是编译后的 Java 程序（`.class文件`）和硬件系统之间的接�
 根据《java虚拟机规范》规定，JVM的基本结构一般如下图所示：
 
 **英文版**
+
 ![jvm-architecture-en](https://raw.githubusercontent.com/dannygod/ITArticles/master/assets/jvm_architecture_en.png)
 
 **中文版**
-![jvm-architecture-ch](https://raw.githubusercontent.com/dannygod/ITArticles/master/assets/jvm_architecture_ch.png)
+
+![jvm-architecture-ch](https://raw.githubusercontent.com/dannygod/ITArticles/master/assets/jvm_architecture_ch.jpeg)
 
 **简化版**
-![jvm-architecture-simple](https://raw.githubusercontent.com/dannygod/ITArticles/master/assets/jvm_architecture_simple.png)
+
+![jvm-architecture-simple](https://raw.githubusercontent.com/dannygod/ITArticles/master/assets/jvm_architecture_simple.jpeg)
 
 
 JVM主要包括四个部分：
